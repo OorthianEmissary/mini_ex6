@@ -1,2 +1,5 @@
 # mini_ex6
-Its yet to be done, I'm very sorry. Check in after noon. 
+readMe is WIP
+
+meanwhile, here's a link to the sketch.
+https://oorthianemissary.github.io/mini_ex6/index.html

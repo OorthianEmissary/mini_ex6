@@ -1,6 +1,6 @@
 # mini_ex6
 
-![ScreenShot](screenshot.jpg)
+![ScreenShot](screenshot.JPG)
 
 Titel: Squirming-and-super-high-on-acid-caterpillars-in-a-displaycase-maker.
 
